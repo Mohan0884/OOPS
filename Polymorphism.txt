@@ -1,0 +1,10 @@
+url of the document
+https://docs.google.com/document/u/0/d/1uv9EdLaG9TK7iNcMneLeEaChzvmXU9Xu_Uv5iZwswFk/mobilebasic
+
+what is the need of polymorphism?
+Why use Polymorphism in Java? Polymorphism in Java makes it possible to 
+write a method that can correctly process lots of different types of functionalities that have the same name. 
+We can also gain consistency in our code by using polymorphism.
+
+Dynamic Method Dispatch 
+it makes overloading to decide which function to execute in runtime. i.e., Dynamic polymorphism
